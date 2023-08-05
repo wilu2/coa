@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/Area.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Area.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Area.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/BoundBox.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/BoundBox.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/BoundBox.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/DocNode.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/DocNode.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/DocNode.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/Document.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Document.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Document.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/Page.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Page.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Page.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/Table.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Table.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Table.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/TextLine.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/TextLine.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/TextLine.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/XChar.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/XChar.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/XChar.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/contract_compare.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/contract_compare_c.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare_c.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare_c.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/diff.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/diff_str.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff_str.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff_str.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/str_utils.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/str_utils.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/str_utils.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/version.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/version.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/version.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/xie_log.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/xie_log.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/xie_log.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -Dcontract_compare_EXPORTS -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g -fPIC   -fPIC -o CMakeFiles/contract_compare.dir/src/zss/zss.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/zss/zss.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/zss/zss.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/Area.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Area.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Area.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/BoundBox.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/BoundBox.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/BoundBox.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/DocNode.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/DocNode.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/DocNode.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/Document.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Document.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Document.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/Page.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Page.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Page.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/Table.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Table.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/Table.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/TextLine.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/TextLine.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/TextLine.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/XChar.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/XChar.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/XChar.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/contract_compare.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/contract_compare_c.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare_c.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/contract_compare_c.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/diff.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/diff_str.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff_str.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/diff_str.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/str_utils.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/str_utils.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/str_utils.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/version.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/version.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/version.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/xie_log.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/xie_log.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/xie_log.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build",
+  "command": "/usr/bin/g++  -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include  -g   -fPIC -o CMakeFiles/contract_compare_static.dir/src/zss/zss.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/zss/zss.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src/zss/zss.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build/demo",
+  "command": "/usr/bin/g++  -DCPPHTTPLIB_OPENSSL_SUPPORT -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include -isystem /usr/local/include/opencv  -g   -fPIC -o CMakeFiles/demo.dir/main.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/main.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/main.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build/demo",
+  "command": "/usr/bin/g++  -DCPPHTTPLIB_OPENSSL_SUPPORT -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include -isystem /usr/local/include/opencv  -g   -fPIC -o CMakeFiles/demo.dir/md5.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/md5.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/md5.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build/demo",
+  "command": "/usr/bin/g++  -DCPPHTTPLIB_OPENSSL_SUPPORT -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include -isystem /usr/local/include/opencv  -g   -fPIC -o CMakeFiles/demo.dir/base64.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/base64.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/base64.cpp"
+},
+{
+  "directory": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/build/demo",
+  "command": "/usr/bin/g++  -DCPPHTTPLIB_OPENSSL_SUPPORT -DCV_DEBUG -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/src -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party -I/home/luyjunbo-10gbra/桌面/ctest/contract_compare/third_party/spdlog/include -isystem /usr/local/include/opencv  -g   -fPIC -o CMakeFiles/demo.dir/xie_filesystem.cpp.o -c /home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/xie_filesystem.cpp",
+  "file": "/home/luyjunbo-10gbra/桌面/ctest/contract_compare/demo/xie_filesystem.cpp"
+}
+]
